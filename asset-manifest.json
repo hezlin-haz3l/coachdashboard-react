@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/coachdashboard-react/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/coachdashboard-react/static/js/main.7eda2ccc.chunk.js",
-    "main.js.map": "/coachdashboard-react/static/js/main.7eda2ccc.chunk.js.map",
+    "main.js": "/coachdashboard-react/static/js/main.d036179d.chunk.js",
+    "main.js.map": "/coachdashboard-react/static/js/main.d036179d.chunk.js.map",
     "runtime-main.js": "/coachdashboard-react/static/js/runtime-main.207a9618.js",
     "runtime-main.js.map": "/coachdashboard-react/static/js/runtime-main.207a9618.js.map",
     "static/js/2.e3fe4e05.chunk.js": "/coachdashboard-react/static/js/2.e3fe4e05.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.207a9618.js",
     "static/js/2.e3fe4e05.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.7eda2ccc.chunk.js"
+    "static/js/main.d036179d.chunk.js"
   ]
 }
